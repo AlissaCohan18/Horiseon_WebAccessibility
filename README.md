@@ -10,7 +10,7 @@ Updates were made to the Horiseon website to improve the code by adding semantic
 
 ## Deployed Application Link
 
-https://alissacohan18.github.io/challenge01_WebAccessibility/
+https://alissacohan18.github.io/Horiseon_WebAccessibility/
 
 
 ## Credits
